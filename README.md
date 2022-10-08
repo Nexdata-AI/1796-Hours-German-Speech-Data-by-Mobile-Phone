@@ -1,8 +1,10 @@
 # 1796-Hours-German-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/949
+
 
 ## Description
 German audio data captured by mobile phone, 1,796 hours in total, recorded by 3,442 German native speakers. The recorded text is designed by linguistic experts, covering generic, interactive, on-board, home and other categories. The text has been proofread manually with high accuracy; this data can be used for automatic speech recognition, machine translation, and voiceprint recognition.
+
+For more details, please refer to the link: https://bit.ly/3SeiITw
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ German
 
 ## Application Scene
 speech recognition; voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
