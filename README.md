@@ -4,7 +4,7 @@
 ## Description
 German audio data captured by mobile phone, 1,796 hours in total, recorded by 3,442 German native speakers. The recorded text is designed by linguistic experts, covering generic, interactive, on-board, home and other categories. The text has been proofread manually with high accuracy; this data can be used for automatic speech recognition, machine translation, and voiceprint recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/949?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/949?source=Github
 
 
 ## Format
